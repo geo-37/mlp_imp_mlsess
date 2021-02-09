@@ -1,2 +1,2 @@
-# An Implementation of MLP (Python + Numpy)
-Gio
+# An Implementation of MLP (Python + Numpy) with MNIST
+gio
