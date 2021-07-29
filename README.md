@@ -1,2 +1,2 @@
 # An Implementation of MLP (Python + Numpy) with MNIST
-gio
+By Gio Huh (SAS PX 2022)
